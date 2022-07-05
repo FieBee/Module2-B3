@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Add-element/Add-element.iml" filepath="$PROJECT_DIR$/Add-element/Add-element.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Bai3.iml" filepath="$PROJECT_DIR$/.idea/Bai3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Delete-element/Delete-element.iml" filepath="$PROJECT_DIR$/Delete-element/Delete-element.iml" />
       <module fileurl="file://$PROJECT_DIR$/FIndValue/FIndValue.iml" filepath="$PROJECT_DIR$/FIndValue/FIndValue.iml" />
