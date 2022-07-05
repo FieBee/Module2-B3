@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/Find-max/Find-max.iml" filepath="$PROJECT_DIR$/Find-max/Find-max.iml" />
       <module fileurl="file://$PROJECT_DIR$/Find-max-element/Find-max-element.iml" filepath="$PROJECT_DIR$/Find-max-element/Find-max-element.iml" />
       <module fileurl="file://$PROJECT_DIR$/Find-min/Find-min.iml" filepath="$PROJECT_DIR$/Find-min/Find-min.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Find-min-of-arr/Find-min-of-arr.iml" filepath="$PROJECT_DIR$/Find-min-of-arr/Find-min-of-arr.iml" />
       <module fileurl="file://$PROJECT_DIR$/ReverseArr/ReverseArr.iml" filepath="$PROJECT_DIR$/ReverseArr/ReverseArr.iml" />
       <module fileurl="file://$PROJECT_DIR$/Temperature/Temperature.iml" filepath="$PROJECT_DIR$/Temperature/Temperature.iml" />
     </modules>
