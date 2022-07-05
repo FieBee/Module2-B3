@@ -15,6 +15,7 @@ public class Main {
                 int j = i;
                 while (j<arr.length-1){
                     arr[j] = arr[j+1];
+                    arr[j+1]=0;
                     j++;
                 }
                 i--;
