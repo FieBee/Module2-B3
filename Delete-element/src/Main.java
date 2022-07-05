@@ -11,9 +11,11 @@ public class Main {
         int indexDel =1;
         for (int i = 0; i<arr.length; i++,indexDel++){
             if (arr[i] == x){
-                arr[i] = 0;
                 System.out.println(" Vi tri phan tu xoa la: " + indexDel);
-
+                while (i<arr.length-1){
+                    arr[i] = arr[i+1];
+                    i++;
+                }
             }
         }
         for (int element : arr){
